@@ -1,5 +1,5 @@
 import React from 'react';
-import '../App.css';
+import './Navbar.css';
 import logo from '../assets/img/logo.png';
 import panier from '../assets/img/panier.png';
 import favori from '../assets/img/favori.png';
